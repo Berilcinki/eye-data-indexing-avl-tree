@@ -1,6 +1,6 @@
 # Eye Data Indexing System (AVL Tree in C)
 
-This project is aeye data indexing system implemented in C using an AVL Tree.
+This project is a eye data indexing system implemented in C using an AVL Tree.
 
 The system loads eye measurement data from a file and stores it in a self-balancing AVL tree to enable efficient searching and indexing of user eye records.
 
